@@ -1,0 +1,16 @@
+<?xml version="1.0"?><svg width="533.3333333333333" height="533.3333333333333" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Back Arrow</title>
+ <defs>
+  <linearGradient id="linearGradient650">
+   <stop stop-color="#000" offset="0" id="stop651"/>
+   <stop stop-color="#fff" offset="1" id="stop652"/>
+  </linearGradient>
+  <linearGradient y2="0.539063" y1="0.53125" xlink:href="#linearGradient650" x2="1.166669" x1="1.000005" spreadMethod="repeat" id="linearGradient653" gradientUnits="objectBoundingBox"/>
+  <linearGradient y2="0.460938" y1="0.460938" xlink:href="#linearGradient650" x2="1.166668" x1="1.222227" spreadMethod="repeat" id="linearGradient654" gradientUnits="objectBoundingBox"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(-29.5122 248.813 245.253)" fill-rule="evenodd" fill="#102549" stroke-width="1pt" id="path694" d="m82.278503,245.253006a166.535004,170.095001 0 1 0 333.069489,0a166.535004,170.095001 0 1 0 -333.069489,0l166.5345,0l-166.5345,0z"/>
+  <path fill="#ffffff" fill-rule="evenodd" stroke-width="1pt" id="path695" d="m370.803986,295.991241l-184.7995,0l0,30.077759l-81.422485,-73.525009l80.507858,-73.525986l1.829254,27.405777l182.969162,0.667755l0.91571,88.899704z"/>
+ </g>
+</svg>
