@@ -43,7 +43,6 @@ import QtQuick 1.1
 
 Rectangle {
     id: page
-
     property Item text: dialogText
 
     signal closed
